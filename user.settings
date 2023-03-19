@@ -125,7 +125,7 @@ RemapDerivative2=1
 RemapDerivative1=2
 [Gameplay]
 ConsentTelemetry=false
-Difficulty=4
+Difficulty=1
 CrossProgression=false
 EnableAlternateHorseCamera=0
 AutosaveTimeInterval=3
